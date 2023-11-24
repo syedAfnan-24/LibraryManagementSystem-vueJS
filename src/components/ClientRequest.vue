@@ -1,5 +1,5 @@
 <script setup>
-import requestTag from "./returnTagc.vue";
+import requestTag from "./requestTagc.vue";
 </script>
 
 <template>
